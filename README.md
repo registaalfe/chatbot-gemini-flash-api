@@ -1,4 +1,4 @@
-# Front-End - Gemini Flash API
+# Frontend - Gemini Flash API
 
 A complete, full-stack web application featuring a real-time chat interface powered by Google's **Gemini 1.5 Flash** model. This project demonstrates seamless integration between a **vanilla JavaScript frontend** and a robust **Express.js backend**.
 

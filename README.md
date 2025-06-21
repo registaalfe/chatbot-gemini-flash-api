@@ -51,7 +51,7 @@ A complete, full-stack web application featuring a real-time chat interface powe
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/registaalfe/gemini-flash-api.git
+git clone https://github.com/registaalfe/chatbot-gemini-flash-api.git
 
 ```
 

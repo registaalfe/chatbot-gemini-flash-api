@@ -57,7 +57,7 @@ git clone https://github.com/registaalfe/chatbot-gemini-flash-api.git
 
 ### 2. Navigate into the Project
 ```bash
-cd gemini-flash-api
+cd chatbot-gemini-flash-api
 
 ```
 
